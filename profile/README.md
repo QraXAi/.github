@@ -1,15 +1,26 @@
-# QraXAi
+<!--
+  Logo burada. Şu an organizasyon avatarı kullanılıyor.
+  Kendi logonu koymak için: dosyayı repoya ekle (ör. assets/logo.png),
+  aşağıdaki src değerini "assets/logo.png" yap.
+-->
+<p align="center">
+  <img src="https://github.com/QraXAi.png" alt="QraXAi logo" width="140">
+</p>
 
-> Create small open-source models. But very small.
+<h1 align="center">QraXAi</h1>
+
+<p align="center"><b>Create small open-source models. But very small.</b></p>
+
+<p align="center">
+  <a href="https://huggingface.co/coderian/QraXAi-Basic-32M"><img src="https://img.shields.io/badge/Model-QraXAi--Basic--32M-orange.svg" alt="Model"></a>
+  <a href="https://huggingface.co/collections/coderian/qraxai"><img src="https://img.shields.io/badge/Hugging%20Face-Collection-yellow.svg" alt="Collection"></a>
+  <a href="https://huggingface.co/coderian/QraXAi-Basic-32M/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="License"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.11%2B-3776ab.svg?logo=python&amp;logoColor=white" alt="Python"></a>
+</p>
 
 QraXAi is an open project focused on training compact, GPT-style language models
 from scratch: tokenization, model code, training loop and a Hugging Face-ready
 export — small enough to read end to end and reproducible on a single consumer GPU.
-
-[![Model](https://img.shields.io/badge/Model-QraXAi--Basic--32M-orange.svg)](https://huggingface.co/coderian/QraXAi-Basic-32M)
-[![Collection](https://img.shields.io/badge/Hugging%20Face-Collection-yellow.svg)](https://huggingface.co/collections/coderian/qraxai)
-[![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://huggingface.co/coderian/QraXAi-Basic-32M/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/python-3.11%2B-3776ab.svg?logo=python&logoColor=white)](https://www.python.org/)
 
 ## What we do
 
